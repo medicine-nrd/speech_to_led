@@ -1,4 +1,4 @@
 # speech_to_led
 
-# arduino due speech to led. 
+# arduino due speech to LED. 
 # ┻━┻ ︵ ＼( °□° )／ ︵ ┻━┻
